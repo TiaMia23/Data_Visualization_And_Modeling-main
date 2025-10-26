@@ -1,0 +1,8 @@
+Findings summary:
+- Overall mean rating: 1.8709219858156028
+- Median rating: 1.0
+- Avg rating when has image: 1.608695652173913
+- Avg rating when no image: 1.889226100151745
+- Correlation between rating and review words: -0.34009086766299046
+- Correlation between rating and exclamation_count: -0.051398809898090654
+- Most common rating value: 1.0
